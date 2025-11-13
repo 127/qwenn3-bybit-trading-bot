@@ -16,6 +16,7 @@ Bot places futures trading orders with stop losses and take profit at Bybit-exch
 
 ## Instruction
 
+- register telegram, bybit and qwenn3-max/chatgpt account and obtain credentials
 - maybe you will need remove news parsing and prompt injection 
 - setup .env file with your credendtilas
 - ```npm i```
